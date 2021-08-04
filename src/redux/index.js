@@ -1,0 +1,1 @@
+export {setProduct, fetchProduct} from './generalReducer/generalReducerActions';
